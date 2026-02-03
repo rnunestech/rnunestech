@@ -2,8 +2,8 @@
 
 - 👨🏾‍🏫 Atualmente Trabalho com Desenvolvimento de Sistemas, ministrando aulas
   de Informática para Internet e Desenvolvimento de Sistemas.
-- 🌱 Estou me aprofundando no conhecimento especifico das linguagens Python,
-  JavaScript, HTML e CSS e estudando outros tipos de Banco de Dados.
-- 👨🏾‍💻 Possuo amplo conhecimento em Hardware e Software, além de cursos de especialização na área
+- 🌱 Possuo conhecimento especifico das linguagens Python,
+  JavaScript, HTML e CSS e estudando outros tipos de linguagens,
+- 👨🏾‍💻 Possuo amplo conhecimento em Hardware, Software e Banco de Dados, além de cursos de especialização na área
   de Desenvolvimento.
 - 👨🏾‍🎓 Possuo formação de nível médio técnico em Eletrônica (ETEC), Técnico em Informática (ETEC) e Superior em Análise e Desenvolvimento de Sistemas (FATEC) e Licenciatura em Educação Física.
